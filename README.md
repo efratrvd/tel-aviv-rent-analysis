@@ -1,4 +1,4 @@
-# Tel-Aviv house-rent-analysis
+# Tel-Aviv House Rent Analysis
 An analysis of the rental market of Tel Aviv 2021
 
 ## Description
